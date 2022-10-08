@@ -1,0 +1,24 @@
+{
+  "name": "create-react-component",
+  "version": "1.0.0",
+  "description": "allows you not to create component/component.props/component.module.css manualy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "component": "node ./create_component.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danhoh/create-react-component.git"
+  },
+  "keywords": [
+    "react",
+    "component"
+  ],
+  "author": "Daniil Khokhlov <danhoh228@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danhoh/create-react-component/issues"
+  },
+  "homepage": "https://github.com/Danhoh/create-react-component#readme"
+}
